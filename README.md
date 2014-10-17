@@ -6,7 +6,7 @@
 Version: 278bd97 (2014-08-03 23:35:17 -0400)
 
 
-npm install --save-dev neaket360pi/ember-cli-list-view
+`npm install --save-dev neaket360pi/ember-cli-list-view`
 
 <del>
 This README outlines the details of collaborating on this Ember addon.
