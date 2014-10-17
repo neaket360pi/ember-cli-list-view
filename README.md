@@ -1,5 +1,10 @@
 # Ember-cli-list-view
 
+
+[list-view](https://github.com/emberjs/list-view)
+
+Version: 278bd97 (2014-08-03 23:35:17 -0400)
+
 This README outlines the details of collaborating on this Ember addon.
 
 ## Installation
