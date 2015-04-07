@@ -1,3 +1,5 @@
+[![Circle CI](https://circleci.com/gh/neaket360pi/ember-cli-list-view.svg?style=svg)](https://circleci.com/gh/neaket360pi/ember-cli-list-view)
+
 # Ember-cli-list-view
 
 
